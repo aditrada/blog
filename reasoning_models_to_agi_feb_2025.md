@@ -96,14 +96,10 @@ The safety concern with latent-space reasoning is that we lose the ability to mo
 
 Reasoning models are a very exciting breakthrough that show the immense power of RL. 2025 is going to be the year where RL takes over and will probably give us superhuman capabilities in many if not all domains. We are tantalizingly close to very powerful AI. I wouldn’t be surprised if we get to AGI just by connecting together all the techniques we already know about. The path to AGI is becoming less foggy.
 
-## Other posts
-
-Check out [go/aditr-notes](http://goto.google.com/aditr-notes).
-
 ## References
 
 \[1\]: DeepSeek-AI. *DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning*. [https://arxiv.org/pdf/2501.12948](https://arxiv.org/pdf/2501.12948).  
-\[2\]: Adit Rada. *Interpolation, Extrapolation & LLMs*. [go/interp-extrap-llms](http://goto.google.com/interp-extrap-llms).  
+\[2\]: Adit Rada. *[Interpolation and Extrapolation in LLMs]*(interpolation_extrapolation_llms.md)
 \[3\]: David Silver et al. *Mastering the game of Go with deep neural networks and tree search*. [https://www.nature.com/articles/nature16961](https://www.nature.com/articles/nature16961)  
 \[4\]: David Silver et al. *Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm.* [https://arxiv.org/abs/1712.01815](https://arxiv.org/abs/1712.01815)  
 \[5\]: Julian Schrittwieser et al. *Mastering Atari, Go, chess and shogi by planning with a learned model*. [https://www.nature.com/articles/s41586-020-03051-4](https://www.nature.com/articles/s41586-020-03051-4)  

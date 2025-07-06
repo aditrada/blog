@@ -144,11 +144,6 @@ So, will LLMs alone take us to AGI? Based on my *current* knowledge and experien
 
 Maybe I am wrong, maybe there are multiple paths to human-level intelligence, and scaling up LLMs may eventually lead to AGI. However, the path that LLMs have taken is drastically different from the path we took.
 
-### Other posts
-
-* Check out [go/interp-extrap-llms](http://goto.google.com/interp-extrap-llms)  
-* See [go/aditr-notes](http://goto.google.com/aditr-notes)
-
 ### References
 
 \[1\]: Ashish Vaswani, et al. *Attention Is All You Need*. [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)  

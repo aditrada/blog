@@ -88,7 +88,7 @@ Each breakthrough builds on the former. So we now have distributed systems with 
 **Limitation:** Even though a lot of new applications were unlocked and we have come even closer to approximating the human brain, there are still some limitations:
 
 * Computing systems so far have been rather passive and could not “do stuff” by independently reasoning through problems like a human would.  
-* In many cases, neural networks began to reach and exceed human performance on many tasks e.g. natural language, computer vision, and Go to name a few. It is natural therefore to wonder whether these models have obtained a true human-level understanding of these tasks. And the more we began to wonder, the more we understood both about the complexities of the human brain and the difficulties in approximating it. Computers still could not do (as of Feb 2025\) (hierarchical) planning, reasoning, and many more nuanced behaviors. \[[2](http://go/will-llms-alone-take-us-to-agi)\] (see [go/will-llms-alone-take-us-to-agi](http://goto.google.com/will-llms-alone-take-us-to-agi)).
+* In many cases, neural networks began to reach and exceed human performance on many tasks e.g. natural language, computer vision, and Go to name a few. It is natural therefore to wonder whether these models have obtained a true human-level understanding of these tasks. And the more we began to wonder, the more we understood both about the complexities of the human brain and the difficulties in approximating it. Computers still could not do (as of Feb 2025\) (hierarchical) planning, reasoning, and many more nuanced behaviors.
 
 As we will see, these limitations and challenges will mostly be gone in the next breakthrough.
 
@@ -125,8 +125,6 @@ The next ability in breakthrough 4 is **agentic capabilities**.
 2) Secondly, they are multi-modal so can natively accept different types of data.  
 3) Third, the Gemini 2.0 generation of models can natively use tools, so they can take actions and start to behave like agents.  
 4) Lastly, by combining reinforcement learning with multi-modal models we are seeing reasoning models. This is analogous to how reinforcement learning produced super human agents in the form of AlphaGo \[[6](https://www.nature.com/articles/nature16961)\], AlphaZero \[[7](https://arxiv.org/abs/1712.01815)\], and MuZero \[[8](https://www.nature.com/articles/s41586-020-03051-4)\]. Combining those same techniques with multi-modal models, and with a couple of breakthroughs in world models \[[9](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)\] and hierarchical planning \[[10](https://www.nature.com/articles/s41467-019-13239-6), [11](http://incompleteideas.net/book/the-book-2nd.html)\], we will soon have powerful agentic computing systems. If there is something they don’t know, reasoning models (like Gemini Thinking) combined with tool use will be able to adapt and respond appropriately.
-
-See \[[14](http://go/reasoning-models-to-agi-feb25)\] for more.  
    
 ***How we tell computers what to do:*** We tell computers what we want in natural language and the computer agent goes out and figures out the problem and solution steps. It comes back to us with the output we requested.
 
@@ -171,14 +169,10 @@ In the end, like most things these days, this article ended up being about Artif
 
 In addition, I had two more objectives with this article. First, I wanted to spread awareness and excitement that software is about to become so much more accessible \- it has never been easier to tell the computer what you want it to do. Second, I wanted a framework to organize my thoughts around the interaction between software and AI. I think I have made some progress 🙂.
 
-## Other posts
-
-Check out [go/aditr-notes](http://goto.google.com/aditr-notes).
-
 ## References
 
 \[1\]: AlexNet. [https://en.wikipedia.org/wiki/AlexNet](https://en.wikipedia.org/wiki/AlexNet)  
-\[2\]: Adit Rada. *Will LLMs Alone Take Us to AGI*. [go/will-llms-alone-take-us-to-agi](http://goto.google.com/will-llms-alone-take-us-to-agi)  
+\[2\]: Adit Rada. *[Will LLMs Alone Take Us to AGI?]*(will_llms_alone_take_us_to_agi.md) 
 \[3\]: Ashish Vaswani, et al. *Attention Is All You Need*. [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762)  
 \[4\]: Tom B. Brown et al. *Language Models are Few-Shot Learners. [https://arxiv.org/pdf/2005.14165](https://arxiv.org/pdf/2005.14165)*  
 \[5\]: Colin Raffel et al. *Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer*. [https://arxiv.org/pdf/1910.10683](https://arxiv.org/pdf/1910.10683)  
@@ -190,7 +184,7 @@ Check out [go/aditr-notes](http://goto.google.com/aditr-notes).
 \[11\]: Richard S. Sutton et al. *Reinforcement Learning: An Introduction*. [http://incompleteideas.net/book/the-book-2nd.html](http://incompleteideas.net/book/the-book-2nd.html)  
 \[12\]: Ian Goodfellow, et al. *Deep Learning.* [https://www.deeplearningbook.org/](https://www.deeplearningbook.org/)  
 \[13\]: Tim Urban. *The AI Revolution: The Road to Superintelligence*. [https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)  
-\[14\]: Adit Rada. *Reasoning Models to AGI (Feb 2025\)*. [go/reasoning-models-to-agi-feb25](http://goto.google.com/reasoning-models-to-agi-feb25)
+\[14\]: Adit Rada. *[Reasoning Models to AGI (Feb 2025)]*(reasoning_models_to_agi_feb_2025.md)
 
 # Appendix \- Examples
 

@@ -215,10 +215,6 @@ Future directions would be:
 
 The “let’s wait and see” approach is seldom a successful strategy. With technology that is as powerful and transformative as AI, it pays to be proactive rather than reactive.
 
-### Other Posts
-
-[go/aditr-notes](http://goto.google.com/aditr-notes)
-
 ### References
 
 \[1\]: Max Bennet. *A Brief History of Intelligence*.  
